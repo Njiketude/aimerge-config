@@ -2,7 +2,7 @@ build:
   version: 1.0.0
 
 accounts:
-  message: "Auth Production Environment, please use this environment for production purposes only."
+  message: "Auth Production 12345 Environment, please use this environment for production purposes only."
   contactDetails:
     name: "Aimerge - Production"
     email: "info@aimerge.ca"
