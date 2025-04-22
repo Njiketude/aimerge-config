@@ -1,0 +1,22 @@
+build:
+  version: 1.0.0
+
+accounts:
+  message: "Auth Local Environment, please use this environment for testing purposes only."
+  contactDetails:
+    name: "Aimerge - local"
+    email: "info@aimerge.ca"
+  onCallSupport:
+    - "+14384661682"
+
+
+logging:
+  level:
+    org:
+      springframework:
+        security: DEBUG
+      springdoc: DEBUG
+    com:
+      aimerge:
+        cekoservice:
+          security: DEBUG

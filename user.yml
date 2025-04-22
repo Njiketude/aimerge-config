@@ -1,0 +1,10 @@
+build:
+  version: 1.0.0
+
+accounts:
+  message: "User local Environment, please use this environment for testing purposes only."
+  contactDetails:
+    name: "Aimerge - Local"
+    email: "info@aimerge.ca"
+  onCallSupport:
+    - "+14384661682"
