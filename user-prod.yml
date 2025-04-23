@@ -2,7 +2,7 @@ build:
   version: 1.0.0
 
 accounts:
-  message: "User Production Environment, please use this environment for production purposes only."
+  message: "User Production Environment, please use this environment for production purposes only. 123546"
   contactDetails:
     name: "Aimerge - Production"
     email: "info@aimerge.ca"
