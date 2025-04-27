@@ -1,5 +1,6 @@
 build:
   version: 1.0.0
+  
 accounts:
   message: "Auth Production Environment, please use this environment for production purposes only."
   contactDetails:
